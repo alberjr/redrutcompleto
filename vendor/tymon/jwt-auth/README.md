@@ -1,40 +1,34 @@
-# jwt-auth
+![jwt-auth-banner](https://cloud.githubusercontent.com/assets/1801923/9915273/119b9350-5cae-11e5-850b-c941cac60b32.png)
 
-> JSON Web Token Authentication for Laravel
-
-[![Build Status](http://img.shields.io/travis/tymondesigns/jwt-auth/master.svg?style=flat-square)](https://travis-ci.org/tymondesigns/jwt-auth)
-[![Scrutinizer Code Quality](http://img.shields.io/scrutinizer/g/tymondesigns/jwt-auth.svg?style=flat-square)](https://scrutinizer-ci.com/g/tymondesigns/jwt-auth/)
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/tymondesigns/jwt-auth.svg?style=flat-square)](https://scrutinizer-ci.com/g/tymondesigns/jwt-auth/code-structure)
+[![Build Status](http://img.shields.io/travis/tymondesigns/jwt-auth/master.svg?style=flat-square&logo=travis)](https://travis-ci.org/tymondesigns/jwt-auth)
+[![Codecov branch](https://img.shields.io/codecov/c/github/tymondesigns/jwt-auth/develop.svg?style=flat-square&logo=codecov)](https://codecov.io/github/tymondesigns/jwt-auth)
 [![StyleCI](https://styleci.io/repos/23680678/shield?style=flat-square)](https://styleci.io/repos/23680678)
-[![HHVM](https://img.shields.io/hhvm/tymon/jwt-auth.svg?style=flat-square)](http://hhvm.h4cc.de/package/tymon/jwt-auth)
-[![Latest Version](http://img.shields.io/packagist/v/tymon/jwt-auth.svg?style=flat-square)](https://packagist.org/packages/tymon/jwt-auth)
-[![Latest Dev Version](https://img.shields.io/packagist/vpre/tymon/jwt-auth.svg?style=flat-square)](https://packagist.org/packages/tymon/jwt-auth#dev-develop)
+[![Latest Version](http://img.shields.io/packagist/v/tymon/jwt-auth.svg?style=flat-square&logo=composer)](https://packagist.org/packages/tymon/jwt-auth)
+[![Latest Dev Version](https://img.shields.io/packagist/vpre/tymon/jwt-auth.svg?style=flat-square&logo=composer)](https://packagist.org/packages/tymon/jwt-auth#dev-develop)
 [![Monthly Downloads](https://img.shields.io/packagist/dm/tymon/jwt-auth.svg?style=flat-square)](https://packagist.org/packages/tymon/jwt-auth)
 
-See the [WIKI](https://github.com/tymondesigns/jwt-auth/wiki) for documentation
+## Documentation
+
+Documentation for `1.0.0` [here](http://jwt-auth.com)
+
+For version `0.5.*` See the [WIKI](https://github.com/tymondesigns/jwt-auth/wiki) for documentation.
+
+[<img src="https://user-images.githubusercontent.com/1801923/57975478-a7a88900-79c1-11e9-924b-d7fa742f743b.png" height="40">](https://www.patreon.com/bePatron?u=11815122)
+
+-----------------------------------
+
+### Supported by Auth0 <span><img src="https://user-images.githubusercontent.com/1801923/31792116-d4fca9ec-b512-11e7-92eb-56e8d3df8e70.png" height="28" align="top"></span>
+
+If you want to easily add secure authentication to Laravel apps, feel free to check out Auth0's SDK and free plan at [auth0.com/overview](https://auth0.com/overview?utm_source=GHsponsor&utm_medium=GHsponsor&utm_campaign=jwt-auth&utm_content=auth)
+
+## Security
+
+If you discover any security related issues, please email tymon148@gmail.com instead of using the issue tracker.
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Sean Tymon
+[![Beerpay](https://beerpay.io/tymondesigns/jwt-auth/badge.svg)](https://beerpay.io/tymondesigns/jwt-auth)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-[![Gratipay](https://img.shields.io/gratipay/tymondesigns.svg?style=flat-square)](https://gratipay.com/~tymondesigns)
+[![SensioLabs Insight](https://insight.sensiolabs.com/projects/ba600082-7869-4ea8-b877-0bf6a86d4988/small.png)](https://insight.sensiolabs.com/projects/ba600082-7869-4ea8-b877-0bf6a86d4988)
